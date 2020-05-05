@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ada-project/static/css/main.adbf180b.chunk.css",
+    "main.css": "/ada-project/static/css/main.7eb87e86.chunk.css",
     "main.js": "/ada-project/static/js/main.8964c81b.chunk.js",
     "main.js.map": "/ada-project/static/js/main.8964c81b.chunk.js.map",
     "runtime-main.js": "/ada-project/static/js/runtime-main.423e389c.js",
@@ -8,9 +8,9 @@
     "static/js/2.aba98b59.chunk.js": "/ada-project/static/js/2.aba98b59.chunk.js",
     "static/js/2.aba98b59.chunk.js.map": "/ada-project/static/js/2.aba98b59.chunk.js.map",
     "index.html": "/ada-project/index.html",
-    "precache-manifest.94547500b2db19e6373fdfcce43a3988.js": "/ada-project/precache-manifest.94547500b2db19e6373fdfcce43a3988.js",
+    "precache-manifest.0ce08db3adcd0b184b744692a70ceaf4.js": "/ada-project/precache-manifest.0ce08db3adcd0b184b744692a70ceaf4.js",
     "service-worker.js": "/ada-project/service-worker.js",
-    "static/css/main.adbf180b.chunk.css.map": "/ada-project/static/css/main.adbf180b.chunk.css.map",
+    "static/css/main.7eb87e86.chunk.css.map": "/ada-project/static/css/main.7eb87e86.chunk.css.map",
     "static/js/2.aba98b59.chunk.js.LICENSE.txt": "/ada-project/static/js/2.aba98b59.chunk.js.LICENSE.txt",
     "static/media/error.jpg": "/ada-project/static/media/error.c8b2f7af.jpg",
     "static/media/logo.jpg": "/ada-project/static/media/logo.9549a870.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.423e389c.js",
     "static/js/2.aba98b59.chunk.js",
-    "static/css/main.adbf180b.chunk.css",
+    "static/css/main.7eb87e86.chunk.css",
     "static/js/main.8964c81b.chunk.js"
   ]
 }

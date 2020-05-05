@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "730ae38d192ca46e8bb4cd523dd879cb",
+    "revision": "6986a647686a7b3f3e787a56f72e6244",
     "url": "/ada-project/index.html"
   },
   {
-    "revision": "64b609f2f416d10a0eb8",
-    "url": "/ada-project/static/css/main.adbf180b.chunk.css"
+    "revision": "1bbfea350e2b7c49a637",
+    "url": "/ada-project/static/css/main.7eb87e86.chunk.css"
   },
   {
     "revision": "c079d629cfb1f0ea3cab",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ada-project/static/js/2.aba98b59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64b609f2f416d10a0eb8",
+    "revision": "1bbfea350e2b7c49a637",
     "url": "/ada-project/static/js/main.8964c81b.chunk.js"
   },
   {
